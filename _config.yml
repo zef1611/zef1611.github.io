@@ -17,7 +17,7 @@ baseurl: ""
 title: Zef's Personal Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Personal Blog của Zef 
 
 # --- Navigation bar options --- #
 
@@ -25,9 +25,9 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    #- Learn markdown: "http://www.markdowntutorial.com/"
+    #- GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -73,10 +73,10 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
+  facebook: "https://www.facebook.com/huy.zef" 
   github: daattali
-  twitter: daattali
-  reddit: z
+  #twitter: daattali
+  reddit: T
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
