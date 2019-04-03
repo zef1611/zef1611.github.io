@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Z"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Zef1611.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -127,9 +127,9 @@ url-pretty: "Z"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
-
+    
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "893213664404030"
 
 # Staticman support
 staticman:
